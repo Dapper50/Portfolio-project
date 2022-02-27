@@ -80,6 +80,9 @@ p {
 .content p {
   font-size: 14px;
 }
+.content p a {
+  color: var(--branding-color);
+}
 
 .btn-branding {
   background: var(--branding-color);
