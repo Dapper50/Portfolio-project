@@ -245,4 +245,7 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+  .btn-branding {
+    margin-top: 135px;
+  }
 }
