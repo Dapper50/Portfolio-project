@@ -232,6 +232,9 @@ footer .social-links a:hover {
   h3 {
     font-size: 26px;
   }
+  svg {
+    width: 90%;
+  }
 
   .content {
     text-align: center;
